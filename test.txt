@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - NELLORE  || 22 Jun 2021 | 07:13:22 PM
+-------------------------------------------------------------
+Current temperature is: 31.93 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 51 %
+Current wind speed    : 4.17 kmph
